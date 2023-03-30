@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { FlatList } from 'react-native';
-import { formatCurrency } from '../../../utils/formatCurrency';
+import { formatCurrency } from '../../utils/formatCurrency';
 import { Product } from '../../types/Product';
 import { PlusCircle } from '../Icons/PlusCircle';
 import { ProductModal } from '../ProductModal';
